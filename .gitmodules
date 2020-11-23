@@ -4,3 +4,6 @@
 [submodule "HACC 2019 - Garys Best"]
 	path = HACC 2019 - Garys Best
 	url = https://github.com/frendylio/garys-best
+[submodule "GameTheSystem"]
+	path = GameTheSystem
+	url = https://github.com/frendylio/GameTheSystem
